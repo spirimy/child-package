@@ -5,5 +5,5 @@ export default function submarine(input) {
     return "Application failed";
   }
 
-  return "Application running successfully";
+  return "Application running";
 }
