@@ -6,9 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Mykola Voinikov <qwoxa1@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "repository": "https://github.com/spirimy/child.git"
 }
