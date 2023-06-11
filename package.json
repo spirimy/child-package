@@ -1,5 +1,5 @@
 {
-  "name": "submarines",
+  "name": "@spirimy/child-package",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,5 @@
   "dependencies": {
     "lodash": "^4.17.21"
   },
-  "repository": "https://github.com/spirimy/child.git"
+  "repository": "https://github.com/spirimy/child-package.git"
 }
